@@ -1,0 +1,9 @@
+* cl-mixed
+
+A simple audio mixing and processing library based on libmixed.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/Shirakumo/cl-mixed.git |
+| commit  | d3f9557                                       |
+| systems | cl-mixed                                      |
+|---------+-----------------------------------------------|
