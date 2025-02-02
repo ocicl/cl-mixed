@@ -4,6 +4,6 @@ A simple audio mixing and processing library based on libmixed.
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/Shirakumo/cl-mixed.git |
-| commit  | 671e624                                       |
+| commit  | 3e930b8                                       |
 | systems | cl-mixed                                      |
 |---------+-----------------------------------------------|
